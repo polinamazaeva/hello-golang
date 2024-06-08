@@ -1,3 +1,3 @@
-module github.com/polinamazaeva/hello-golang
+module hello-golang
 
-go 1.22.3
+go 1.22
